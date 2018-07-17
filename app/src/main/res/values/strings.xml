@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleApp</string>
+    <string name="strBtnAdd">Add</string>
+    <string name="strNum1">Number 1</string>
+    <string name="strNum2">Number 2</string>
+    <string name="strAnsDisplay">Enter two number and I will show you the answer for the addition of those two numbers</string>
+</resources>
